@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BioApp</string>
+    <string name="bio">Android is an open source and Linux-based operating system for mobile devices\n
+        such as smartphones and tablet computers. Android was developed by the Open Handset Alliance,
+        \nled by Google, and other companies. This tutorial will teach you basic Android programming and \n
+        will also take you through some \n
+        advance concepts related to Android application development
+        This tutorial has been prepared for the beginners to help them understand basic
+        \nAndroid programming. After completing this tutorial you will find yourself at a moderate level of \n
+        expertise in Android programming from where you can take yourself to next levels
+    Android is an open source and Linux-based operating system for mobile devices\n
+        such as smartphones and tablet computers. Android was developed by the Open Handset Alliance,
+        \nled by Google, and other companies. This tutorial will teach you basic Android programming and \n
+        will also take you through some \n
+        advance concepts related to Android application development
+        This tutorial has been prepared for the beginners to help them understand basic
+        \nAndroid programming. After completing this tutorial you will find yourself at a moderate level of \n
+        expertise in Android programming from where you can take yourself to next levels</string>
+</resources>
